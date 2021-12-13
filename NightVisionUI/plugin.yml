@@ -1,0 +1,16 @@
+---
+name: NightVisionUI
+author: GYo.O
+version: G111
+api:
+- 4.0.0
+main: GY\PM4\NightVisionUI
+
+commands:
+  야간투시:
+    description: 야간투시를 관리합니다.
+    permission: nt.cmd
+permissions:
+  nt.cmd:
+    default: true
+...
